@@ -1,15 +1,24 @@
-# Hi, I'm Michael Baazov 👋
+Hi, I'm Michael Baazov
 
-**Cybersecurity Professional | IDF Intelligence & ICT Veteran | SOC Analyst**
+Independent security researcher focused on authorized vulnerability analysis, Windows/Linux internals, detection engineering, and responsible disclosure.
 
-I'm a hands-on cybersecurity enthusiast with military intelligence experience in the Israel Defense Forces. I build things to break them, and break things to learn how to defend them.
+My work is conducted in owned or isolated lab environments, or on systems where I have explicit authorization. I publish defensive research, patch analysis, IOCs, Sigma rules, and technical writeups intended to help defenders understand and remediate security issues.
 
+Current focus:
+
+- Public CVE reproduction and patch/root-cause analysis in isolated labs
+- Windows and Linux internals research
+- Detection engineering: IOCs, Sigma rules, MITRE ATT&CK mapping
+- Home security lab: segmentation, monitoring, firewalling, and malware-analysis isolation
+- Coordinated vulnerability disclosure through vendor programs
 ---
 
-### 🔭 What I'm Working On
-- 🔬 **[Custom RAT — PoC Research](link)** — Studying C2 architectures and evasion techniques (documentation only)
-- 💉 **[Custom Payload Research](link)** — Endpoint detection bypass analysis with blue team takeaways
-- 🏠 **[Home Security Lab](link)** — Full network with firewall, segmentation, monitoring, and backup — built from scratch
+What I'm Working On:
+
+- C2 Behavior Detection Research — documentation-only blue-team research on network and endpoint indicators
+- Windows Implant Behavior Detection — MITRE ATT&CK mapping, IOCs, and Sigma rules; no source code or binaries
+- Home Security Lab — segmented network, local-only services, monitoring, and safe research environment
+- Public CVE Analysis — reproducing patched CVEs in isolated labs and documenting defensive lessons
 
 ### 📜 Certifications
 - ✅ Certified Hands-on Cyber Security Specialist + LINUX — KERNELiOS (506 hours)
@@ -22,9 +31,7 @@ I'm a hands-on cybersecurity enthusiast with military intelligence experience in
 - 🎯 Active on [TryHackMe](https://tryhackme.com/p/YOUR_USERNAME) — [Add your rank/badge here]
 - 🚩 CTF competitor
 
-### 🎖️ Background
-- IDF Intelligence & ICT Squad Leader — Managed encrypted networks in combat zones during Operation Swords of Iron
-- Active Security Clearance
+
 
 ---
 
